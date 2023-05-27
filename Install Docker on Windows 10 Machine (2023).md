@@ -22,12 +22,12 @@ So you would gently install Ubuntu on your windows 10 from WSL.
 Run you Command prompt as administrator and enter the followin command : 
 wsl --install -d Ubuntu
 
-![test]  (Install docker/Ubuntu installation.png)
+!([Install docker/Ubuntu installation.png] (https://raw.githubusercontent.com/MHKAANICHE/MHKAANICHE/main/Install%20docker/Ubuntu%20installation.PNG))
 
 Once it's done you will be asked to create a user name ( regex condition - must be lowercase letter ) and then you will enter your password ( the cursor would not 
 move, don't panic), once you confirm your password (again!) your installation will be accomplished.
 
-!([Install docker/install ubuto user.png](https://raw.githubusercontent.com/MHKAANICHE/MHKAANICHE/main/Install%20docker/install%20ubuto%20user.PNG))
+!([Install docker/install ubuto user.png] (https://raw.githubusercontent.com/MHKAANICHE/MHKAANICHE/main/Install%20docker/install%20ubuto%20user.PNG))
 
 Now you are running within a Windows Subsystem and your are a happy ( I hope !), you can pursue Docker installation on your subsystem by following the instruction for Linus installtion. 
 [https://docs.docker.com/engine/install/ubuntu/](https://docs.docker.com/engine/install/ubuntu/)
