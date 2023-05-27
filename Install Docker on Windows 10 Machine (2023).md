@@ -9,7 +9,7 @@ Then you will be asked to restart your machine (that will took much longer that 
 Happy at this point to see docker icone on your desktop, and by lunching the program, you will face an error message : 
  "wsl update x64 not supported by this processor".
  
- ![Error message Windows 10](Install docker/Error message Windows 10.PNG)
+ ![Error message Windows 10]  (Install docker/Error message Windows 10.PNG)
  
 Frustrated you would google this error message and you find a github thred [https://github.com/microsoft/WSL/issues/8184](https://github.com/microsoft/WSL/issues/8184), where you dev peer 
 are crying from pain to solve the same issue (same error posted for several processor configurations). 
