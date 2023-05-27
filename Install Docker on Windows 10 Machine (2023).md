@@ -2,13 +2,15 @@
 <h4> May 27th 2023 </h4>
 
 
-To install Docker on you Windows 10 machine, you would visit the official website (https://www.docker.com/)
+To install Docker on you Windows 10 machine, you would visit the official website [https://www.docker.com/](https://www.docker.com/)
 and then download "Docker Desktop Installer" file (636.608 kb), start installation process ( that would freez your desktop for 90 min approxiamtevly ).
 
 Then you will be asked to restart your machine (that will took much longer that expected, approximatevely 30 min ).
 Happy at this point to see docker icone on your desktop, and by lunching the program, you will face an error message : 
  "wsl update x64 not supported by this processor".
+ 
  ![Error message Windows 10](/Install docker/Error message Windows 10.PNG)
+ 
 Frustrated you would google this error message and you find a github thred [https://github.com/microsoft/WSL/issues/8184](https://github.com/microsoft/WSL/issues/8184), where you dev peer 
 are crying from pain to solve the same issue (same error posted for several processor configurations). 
 
