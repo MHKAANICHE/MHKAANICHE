@@ -32,6 +32,7 @@ move, don't panic), once you confirm your password (again!) your installation wi
 Now you are running within a Windows Subsystem and your are a happy ( I hope !), you can pursue Docker installation on your subsystem by following the instruction for Linus installtion. 
 [https://docs.docker.com/engine/install/ubuntu/](https://docs.docker.com/engine/install/ubuntu/)
 
-final take away : once your container are ready ( you can imagine that you are running a container of an image installed on virtual machine hosted on Windows subsystem ! ) Ouch !!!!  
+##final take away : 
+once your container are ready ( you can imagine that you are running a container of an image installed on virtual machine hosted on Windows subsystem ! ) Ouch !!!!  
 
 
