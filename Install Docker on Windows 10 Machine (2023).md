@@ -1,4 +1,4 @@
-<h3> Installing Docker on windows 10 machine </h3>
+<h3>Blog: How to install Docker on windows 10 machine </h3>
 <h4> May 27th 2023 </h4>
 
 
